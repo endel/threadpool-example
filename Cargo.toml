@@ -1,0 +1,7 @@
+[package]
+name = "threadpool-example"
+version = "0.1.0"
+authors = ["Endel Dreyer <endel.dreyer@gmail.com>"]
+
+[dependencies]
+threadpool = "0.1.4"
